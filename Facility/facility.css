@@ -117,28 +117,12 @@ body {
         z-index: 2;
         cursor: pointer;
       }
-}
+} 
+
 
 h1 {
     text-align: center;
     font-size: 15px;
-    margin-top: 35px;
+    margin-top: 45px;
 }
-
-.adress {
-    text-align: center;
-
-    .Googlemap {
-        text-align: center;
-        
-        iframe {
-            width: 90%;
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-    }
-
-    .adress_text {
-        font-size: 10px;
-    }
-}
+    
